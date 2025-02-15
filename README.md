@@ -2,7 +2,7 @@ Here is the README file for your GitHub project:
 
 ---
 
-# 🥔 Potato Leaf Disease Detection  
+# 🥔🥬 Potato Leaf Disease Detection  
 
 ## 🌟 Overview  
 This project is a deep learning-based system for detecting potato leaf diseases, specifically Early Blight, Late Blight, and Healthy leaves. The model is deployed using **Streamlit**, providing a user-friendly web interface for real-time disease classification.  
