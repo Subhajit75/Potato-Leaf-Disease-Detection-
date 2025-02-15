@@ -72,7 +72,7 @@ The CNN model achieved the following accuracy on test data:
 ### 🎲 Model Predictions on Sample Images  
 | Healthy Leaf | Early Blight | Late Blight |
 |-------------|-------------|------------|
-| ![Healthy]([Potato_healthy-26-_0_4635.JPG](https://github.com/Subhajit75/Potato-Leaf-Disease-Detection-/blob/main/Potato_healthy-26-_0_4635.jpg)) | ![Early Blight]((https://github.com/Subhajit75/Potato-Leaf-Disease-Detection-/blob/main/9475f5bf-607b-4091-8a6d-8f09921478a7___RS_LB%205191.JPG)) | ![Late Blight](https://github.com/Subhajit75/Potato-Leaf-Disease-Detection-/blob/main/08029ccc-387e-4be6-9389-04f7b82fdb2a___RS_Early.B%209130.JPG) |
+| ![Healthy]([Potato_healthy-26-_0_4635.JPG](https://github.com/Subhajit75/Potato-Leaf-Disease-Detection-/blob/main/Potato_healthy-26-_0_4635.jpg) | ![Early Blight](https://github.com/Subhajit75/Potato-Leaf-Disease-Detection-/blob/main/9475f5bf-607b-4091-8a6d-8f09921478a7___RS_LB%205191.JPG) | ![Late Blight](https://github.com/Subhajit75/Potato-Leaf-Disease-Detection-/blob/main/08029ccc-387e-4be6-9389-04f7b82fdb2a___RS_Early.B%209130.JPG) |
 
 
 
