@@ -9,7 +9,7 @@ This project aims to detect potato leaf diseases using deep learning. It classif
 
 ## 📌 Features  
 ✅ Upload a potato leaf image for disease analysis  
-j;k;;
+j;k  
 ✅ Instant classification into **Healthy, Early Blight, or Late Blight**  
 ✅ Confidence score for each prediction  
 ✅ Web-based interface powered by **Streamlit**  
