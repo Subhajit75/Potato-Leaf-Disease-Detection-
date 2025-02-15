@@ -65,9 +65,9 @@ The CNN model achieved the following accuracy on test data:
 ✔ Precision: 94%
 ✔ Recall: 97%
 
--✅ Healthy Leaves – 98% Accuracy
--✅ Early Blight – 94% Accuracy
--✅ Late Blight – 96% Accuracy
+✅ Healthy Leaves – 98% Accuracy
+✅ Early Blight – 94% Accuracy
+✅ Late Blight – 96% Accuracy
 
 ## 🔗 References
 - **Research Paper - Deep Learning for Plant Disease Detection**
