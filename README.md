@@ -62,11 +62,9 @@ The trained model achieves high accuracy in detecting potato leaf diseases, maki
 (Screenshots of sample predictions here)  
 
 ## 🤝 Contributors  
-- Your Name (GitHub: [yourusername](https://github.com/yourusername))  
+- Subhajit  (GitHub: [Subhajit75](https://github.com/Subhajit75)))  
 
 ## 📜 License  
 This project is open-source and available under the **MIT License**.  
 
----
 
-Would you like me to include additional details or make modifications? 🚀
