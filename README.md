@@ -93,7 +93,7 @@ The CNN model achieved the following accuracy on test data:
 - **Jay Rathod - https://github.com/JayRathod341997/AICTE-Internship-files**
 
 ## 🎓 Acknowledgment
-This project is developed as part of the TechSaksham AICTE Internship 2024 under the guidance of Jay Rathod.
+This project is developed as part of the **TechSaksham AICTE Internship** 2024 under the guidance of **Jay Rathod.**
 
 ## 🤝 Contributors  
 - Subhajit  (GitHub: [Subhajit75](https://github.com/Subhajit75)))  
