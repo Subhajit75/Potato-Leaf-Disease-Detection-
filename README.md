@@ -58,14 +58,41 @@ The dataset is preprocessed using resizing, normalization, and augmentation to i
 
 🔹 Upload an Image 
 
+To add your **Streamlit app link** in the **GitHub README**, you can include it in different sections. Here are some ways:
+
+---
+
+### 🚀 **Live Demo**  
+🔗 **Try the Web App Here**: [Potato Leaf Disease Detection](https://subhajitghosh-potato-leaf-disease-detection.streamlit.app/)
+
+---
+
+### 📌 **Usage**  
+1️⃣ Upload an image of a **potato leaf**  
+2️⃣ Click **"Predict Disease"**  
+3️⃣ Get instant classification results (**Healthy, Early Blight, Late Blight**)  
+🔗 **[Try It Now](https://subhajitghosh-potato-leaf-disease-detection.streamlit.app/)**  
+
+---
+
+### 📷 **Model Predictions on Sample Images**  
+| Healthy Leaf | Early Blight | Late Blight |
+|-------------|-------------|------------|
+| ![Healthy](images/healthy.png) | ![Early Blight](images/early_blight.png) | ![Late Blight](images/late_blight.png) |
+
+---
+
+Would you like a **badge** for the app link (e.g., "Launch App")? 🚀
+
+
 ## 🌱 Live Demo
-🔗 Try the Web App Here: Potato Leaf Disease Detection  
+🔗 Try the Web App Here: [Potato Leaf Disease Detection](https://subhajitghosh-potato-leaf-disease-detection.streamlit.app/)  
 
 📌 Usage  
 1️⃣ Upload an image of a potato leaf  
 2️⃣ Click "Predict Disease"  
 3️⃣ Get instant classification results (Healthy, Early Blight, Late Blight)  
-🔗 Try It Now  
+🔗 **[Try It Now](https://subhajitghosh-potato-leaf-disease-detection.streamlit.app/)**  
 
 ## 📖 Model Details  
 - **Architecture:** Convolutional Neural Network (CNN)  
