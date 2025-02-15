@@ -44,7 +44,7 @@ The dataset consists of potato leaf images classified into three categories:
 - **Early Blight 🍂**
 - **Late Blight 🍁** 
 
-
+**📌 Source: https://github.com/JayRathod341997/AICTE-Internship-files**
 The dataset is preprocessed using resizing, normalization, and augmentation to improve model performance.
 
 ## 📖 How It Works
