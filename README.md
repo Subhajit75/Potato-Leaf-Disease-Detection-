@@ -24,7 +24,7 @@ This project aims to detect potato leaf diseases using deep learning. It classif
 
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/Potato-Leaf-Disease-Detection.git
+git clone (https://github.com/Subhajit75/Potato-Leaf-Disease-Detection-.git)
 cd Potato-Leaf-Disease-Detection
 ```
   
