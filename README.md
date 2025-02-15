@@ -5,7 +5,7 @@ Here is the README file for your GitHub project:
 # 🥔🥬 Potato Leaf Disease Detection  
 
 ## 🌟 Overview  
-This project is a deep learning-based system for detecting potato leaf diseases, specifically Early Blight, Late Blight, and Healthy leaves. The model is deployed using **Streamlit**, providing a user-friendly web interface for real-time disease classification.  
+This project aims to detect potato leaf diseases using deep learning. It classifies leaves as Healthy, Early Blight, or Late Blight using a Convolutional Neural Network (CNN) model and provides a web-based interface for easy usage.
 
 ## 📌 Features  
 ✅ Upload a potato leaf image for disease analysis  
@@ -46,6 +46,23 @@ The dataset consists of potato leaf images classified into three categories:
 
 The dataset is preprocessed using resizing, normalization, and augmentation to improve model performance.
 
+## 📖 How It Works
+1️⃣ Upload Image
+
+The user uploads an image of a potato leaf.
+2️⃣ Preprocessing
+
+The image is resized and normalized before feeding it to the model.
+3️⃣ Model Prediction
+
+The trained CNN model classifies the image into Healthy, Early Blight, or Late Blight.
+4️⃣ Display Results
+
+The prediction is shown along with a confidence score.
+5️⃣ Treatment Recommendations
+
+If a disease is detected, suggestions for treatment methods are displayed.
+
 ## 📖 Model Details  
 - **Architecture:** Convolutional Neural Network (CNN)  
 - **Training Framework:** TensorFlow/Keras  
@@ -54,12 +71,19 @@ The dataset is preprocessed using resizing, normalization, and augmentation to i
 ## 📊 Results  
 The trained model achieves high accuracy in detecting potato leaf diseases, making it a reliable tool for farmers and researchers.  
 
-## 🖼 Sample Predictions  
-✅ Healthy Leaf Prediction (Green border)  
-✅ Early Blight Detection (Yellow border)  
-✅ Late Blight Detection (Red border)  
+## 🎯 Dataset Information
+The dataset consists of potato leaf images, categorized into three classes:
+
+Healthy Leaves 🌱
+Early Blight 🍂
+Late Blight 🍁 
 
 (Screenshots of sample predictions here)  
+
+## 🔗 References
+Research Paper - Deep Learning for Plant Disease Detection
+TensorFlow Lite Documentation - https://www.tensorflow.org/lite
+Kaggle Dataset - https://www.kaggle.com/potato-disease
 
 ## 🤝 Contributors  
 - Subhajit  (GitHub: [Subhajit75](https://github.com/Subhajit75)))  
