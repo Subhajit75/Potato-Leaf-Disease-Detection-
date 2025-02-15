@@ -54,18 +54,6 @@ The dataset is preprocessed using resizing, normalization, and augmentation to i
 **4️⃣ Display Results:** The prediction is shown along with a confidence score.  
 **5️⃣ Treatment Recommendations:** If a disease is detected, suggestions for treatment methods are displayed.  
 
-## 📷 Web Interface – Image Upload & Prediction
-
-🔹 Upload an Image 
-
-To add your **Streamlit app link** in the **GitHub README**, you can include it in different sections. Here are some ways:
-
----
-
-### 🚀 **Live Demo**  
-🔗 **Try the Web App Here**: [Potato Leaf Disease Detection](https://subhajitghosh-potato-leaf-disease-detection.streamlit.app/)
-
----
 
 ### 📌 **Usage**  
 1️⃣ Upload an image of a **potato leaf**  
@@ -73,7 +61,7 @@ To add your **Streamlit app link** in the **GitHub README**, you can include it 
 3️⃣ Get instant classification results (**Healthy, Early Blight, Late Blight**)  
 🔗 **[Try It Now](https://subhajitghosh-potato-leaf-disease-detection.streamlit.app/)**  
 
----
+
 
 ### 📷 **Model Predictions on Sample Images**  
 | Healthy Leaf | Early Blight | Late Blight |
