@@ -42,17 +42,17 @@ streamlit run app.py
 The dataset consists of potato leaf images classified into three categories:  
 - **Healthy Leaves 🌱**
 - **Early Blight 🍂**
--**Late Blight 🍁** 
+- **Late Blight 🍁** 
 
 
 The dataset is preprocessed using resizing, normalization, and augmentation to improve model performance.
 
 ## 📖 How It Works
--1️⃣ Upload Image: The user uploads an image of a potato leaf.
--2️⃣ Preprocessing: The image is resized and normalized before feeding it to the model.
--3️⃣ Model Prediction: The trained CNN model classifies the image into Healthy, Early Blight, or Late Blight.
--4️⃣ Display Results: The prediction is shown along with a confidence score.
--5️⃣ Treatment Recommendations: If a disease is detected, suggestions for treatment methods are displayed.
+- **1️⃣ Upload Image: The user uploads an image of a potato leaf.**
+- **2️⃣ Preprocessing: The image is resized and normalized before feeding it to the model.**
+- **3️⃣ Model Prediction: The trained CNN model classifies the image into Healthy, Early Blight, or Late Blight.**
+- **4️⃣ Display Results: The prediction is shown along with a confidence score.**
+- **5️⃣ Treatment Recommendations: If a disease is detected, suggestions for treatment methods are displayed.**
 
 ## 📖 Model Details  
 - **Architecture:** Convolutional Neural Network (CNN)  
