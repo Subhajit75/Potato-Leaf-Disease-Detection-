@@ -54,6 +54,19 @@ The dataset is preprocessed using resizing, normalization, and augmentation to i
 **4️⃣ Display Results:** The prediction is shown along with a confidence score.  
 **5️⃣ Treatment Recommendations:** If a disease is detected, suggestions for treatment methods are displayed.  
 
+## 📷 Web Interface – Image Upload & Prediction
+
+🔹 Upload an Image 
+
+## 🌱 Live Demo
+🔗 Try the Web App Here: Potato Leaf Disease Detection  
+
+📌 Usage  
+1️⃣ Upload an image of a potato leaf  
+2️⃣ Click "Predict Disease"  
+3️⃣ Get instant classification results (Healthy, Early Blight, Late Blight)  
+🔗 Try It Now  
+
 ## 📖 Model Details  
 - **Architecture:** Convolutional Neural Network (CNN)  
 - **Training Framework:** TensorFlow/Keras  
