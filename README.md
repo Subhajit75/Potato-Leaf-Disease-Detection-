@@ -55,31 +55,14 @@ The dataset is preprocessed using resizing, normalization, and augmentation to i
 **5️⃣ Treatment Recommendations:** If a disease is detected, suggestions for treatment methods are displayed.  
 
 
-### 📌 **Usage**  
-1️⃣ Upload an image of a **potato leaf**  
-2️⃣ Click **"Predict Disease"**  
-3️⃣ Get instant classification results (**Healthy, Early Blight, Late Blight**)  
-🔗 **[Try It Now](https://subhajitghosh-potato-leaf-disease-detection.streamlit.app/)**  
-
-
-
-### 📷 **Model Predictions on Sample Images**  
-| Healthy Leaf | Early Blight | Late Blight |
-|-------------|-------------|------------|
-| ![Healthy](images/healthy.png) | ![Early Blight](images/early_blight.png) | ![Late Blight](images/late_blight.png) |
-
----
-
-Would you like a **badge** for the app link (e.g., "Launch App")? 🚀
-
 
 ## 🌱 Live Demo
 🔗 Try the Web App Here: [Potato Leaf Disease Detection](https://subhajitghosh-potato-leaf-disease-detection.streamlit.app/)  
 
 📌 Usage  
-1️⃣ Upload an image of a potato leaf  
-2️⃣ Click "Predict Disease"  
-3️⃣ Get instant classification results (Healthy, Early Blight, Late Blight)  
+👉 Upload an image of a potato leaf  
+👉 Click "Predict Disease"  
+👉 Get instant classification results (Healthy, Early Blight, Late Blight)  
 🔗 **[Try It Now](https://subhajitghosh-potato-leaf-disease-detection.streamlit.app/)**  
 
 ## 📖 Model Details  
