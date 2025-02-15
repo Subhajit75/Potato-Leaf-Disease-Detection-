@@ -68,6 +68,9 @@ The trained model achieves high accuracy in detecting potato leaf diseases, maki
 - **TensorFlow Lite Documentation - https://www.tensorflow.org/lite**
 - **Jay Rathod - https://github.com/JayRathod341997/AICTE-Internship-files**
 
+## 🏆 Acknowledgment
+This project is developed as part of the TechSaksham AICTE Internship 2024 under the guidance of Jay Rathod.
+
 ## 🤝 Contributors  
 - Subhajit  (GitHub: [Subhajit75](https://github.com/Subhajit75)))  
 
