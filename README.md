@@ -72,7 +72,7 @@ The CNN model achieved the following accuracy on test data:
 ### 🎲 Model Predictions on Sample Images  
 | Healthy Leaf | Early Blight | Late Blight |
 |-------------|-------------|------------|
-| ![Healthy](images/healthy.png) | ![Early Blight](images/early_blight.png) | ![Late Blight](images/late_blight.png) |
+| ![Healthy](Potato_healthy-26-_0_4635.JPG) | ![Early Blight](08029ccc-387e-4be6-9389-04f7b82fdb2a___RS_Early.B 9130.JPG) | ![Late Blight](9475f5bf-607b-4091-8a6d-8f09921478a7___RS_LB 5191.JPG) |
 
 
 
