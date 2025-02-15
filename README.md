@@ -64,9 +64,9 @@ The trained model achieves high accuracy in detecting potato leaf diseases, maki
 
 
 ## 🔗 References
--Research Paper - Deep Learning for Plant Disease Detection
--TensorFlow Lite Documentation - https://www.tensorflow.org/lite
--Kaggle Dataset - https://www.kaggle.com/potato-disease
+- **Research Paper - Deep Learning for Plant Disease Detection**
+- **TensorFlow Lite Documentation - https://www.tensorflow.org/lite**
+- **Jay Rathod - https://github.com/JayRathod341997/AICTE-Internship-files**
 
 ## 🤝 Contributors  
 - Subhajit  (GitHub: [Subhajit75](https://github.com/Subhajit75)))  
